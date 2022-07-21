@@ -1,4 +1,4 @@
-# A Sorting Algorithms Visualizer website which visualizes following sorting algorithms :-
+# A visualizer website which visualizes following sorting algorithms :-
   1. Bubble Sort
   2. Selection Sort
   3. Insertion Sort
