@@ -9,3 +9,5 @@
   1. Choice among 4 sorting algorithms to visualize.
   2. You can create new array of different heights.
   3. You can also change both the size of the array and the speed of the animations.
+
+# Live Link :- https://sorting-visualiser-by-paritosh22777.netlify.app/
